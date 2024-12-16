@@ -1,0 +1,5 @@
+local MODULE = {};
+
+MODULE.ENABLE_FIND_NEXT_CENTER_SCREEN = false
+
+return MODULE;
